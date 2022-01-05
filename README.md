@@ -1,5 +1,8 @@
 # example
 
+# 进度: 已经过了一遍，不是很清楚
+- https://juejin.cn/post/6844904006184091662
+- node 项目从构建到使用 jenkins + docker + nginx + mysql + redis 自动化部署
 
 
 ## QuickStart
